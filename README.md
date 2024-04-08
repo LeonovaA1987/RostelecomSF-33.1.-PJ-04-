@@ -22,4 +22,5 @@ pip3 install -r requirements.txt
 3.Запустить тесты:
 python -m pytest -v --driver Chrome --driver-path ...
 
-
+Тест-кейсы для сайта "Ростелеком":
+https://docs.google.com/spreadsheets/d/1eGGR8rxzZRRzJdu-IAVujER2LjD8lk056ZKo5DoFHwU/edit?usp=sharing
